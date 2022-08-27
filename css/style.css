@@ -120,7 +120,8 @@ section{
   width: 100%;
   height: 100%;
   z-index: -2;
-  
+  background: url(/images/background_alternative_image.jpg) no-repeat;
+  background-size: cover;
 }
 
 #home-bg-video-overlay{
